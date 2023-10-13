@@ -4,7 +4,7 @@
 
 - 👯 I’m looking to collaborate on **Web 3.0 ,ML,Blockchain ,Devops**
 
-- 👨‍💻 All of my projects are available at [https://sanketnimbargi.netlify.app/](https://sanketnimbargi.netlify.app/)
+- 👨‍💻 All of my projects are available at https://github.com/SanketNimbargi
 
 - 💬 Ask me about **Backend + frontend Developement**
 
