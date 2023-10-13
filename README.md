@@ -1,8 +1,16 @@
-- 👋 Hi, I’m @SanketNimbargi
-- 👀 I’m interested in web developement,Data Analytics,Machine Learning,Devops ...
-- 🌱 I’m currently learning Devops Tools...
-- 💞️ I’m looking to collaborate on open source projects and community building projects ...
-- 📫 AWS Cloud 
+🔭 I’m currently working on **An solution an idea to increase the travel and tourism across India**
+
+- 🌱 I’m currently learning **React and ML**
+
+- 👯 I’m looking to collaborate on **Web 3.0 ,ML,Blockchain ,Devops**
+
+- 👨‍💻 All of my projects are available at [https://sanketnimbargi.netlify.app/](https://sanketnimbargi.netlify.app/)
+
+- 💬 Ask me about **Backend + frontend Developement**
+
+- 📫 How to reach me **sanketnimbargi150@gmail.com**
+
+- ⚡ Fun fact **Enthusiast , Funny ,quick actions**
 
 <!---
 SanketNimbargi/SanketNimbargi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
