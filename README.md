@@ -1,5 +1,5 @@
 # 💫 About Me:
-India<br><br>🔭 I’m currently working on An solution an idea to increase the travel and tourism across India<br><br>🌱 I’m currently learning React and ML<br><br>👯 I’m looking to collaborate on Web 3.0 ,ML,Blockchain ,Devops<br><br>👨‍💻 All of my projects are available at https://github.com/SanketNimbargi<br><br>💬 Ask me about Backend + frontend Developement<br><br>📫 How to reach me sanketnimbargi150@gmail.com<br><br>⚡ Fun fact Enthusiast , Funny ,quick actions<br><br>
+India<br><br>🌱 I’m currently learning React and ML<br><br>👯 I’m looking to collaborate on Web 3.0 ,ML,Blockchain ,Devops<br><br>👨‍💻 All of my projects are available at https://github.com/SanketNimbargi<br><br>💬 Ask me about Backend + frontend Developement<br><br>📫 How to reach me sanketnimbargi150@gmail.com<br><br>⚡ Fun fact Enthusiast , Funny ,quick actions<br><br>
 
 
 ## 🌐 Socials:
