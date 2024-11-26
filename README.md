@@ -1,5 +1,5 @@
 # 💫 About Me:
-India<br><br>🌱 I’m currently learning ew tech stacks and building projects.<br><br>👯 I’m looking to collaborate on Web Dev, ML/DL , Data Science , Devops<br><br>👨‍💻 All of my projects are available at https://github.com/SanketNimbargi<br><br>💬 Ask me about Backend + frontend Developement (Java, Spring Boot, MERN Stack)<br><br>📫 How to reach me sanketnimbargi150@gmail.com<br><br>⚡ Fun fact Enthusiast , Funny ,quick actions<br><br>
+India<br><br>🌱 I’m currently learning new tech stacks and building projects.<br><br>👯 I’m looking to collaborate on Web Dev, ML/DL , Data Science , Devops<br><br>👨‍💻 All of my projects are available at https://github.com/SanketNimbargi<br><br>💬 Ask me about Backend + frontend Developement (Java, Spring Boot, MERN Stack)<br><br>📫 How to reach me sanketnimbargi150@gmail.com<br><br>⚡ Fun fact Enthusiast , Funny ,quick actions<br><br>
 
 
 ## 🌐 Socials:
